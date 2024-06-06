@@ -1,0 +1,26 @@
+[
+    {
+        "title":"InkFlowHub",
+        "imageSrc":"projects/inkFlowHub.jpg",
+        "description":"Platform for sharing photos with others",
+        "skills":["React","Express","NodeJS","MongoDB"],
+        "demo":"https://inkflowhub-1.onrender.com",
+        "source":"https://github.com/mohammadakar/InkFlowHub"
+    },
+    {
+        "title":"LebEstate",
+        "imageSrc":"projects/leb-Estate.png",
+        "description":"Real estate application for renting and selling estates",
+        "skills": ["React", "Express", "NodeJS", "MongoDB", "TailwindCSS", "Vite"],
+        "demo":"https://leb-estate.onrender.com",
+        "source":"https://github.com/mohammadakar/Leb-estate"
+    },
+    {
+        "title":"BookStore",
+        "imageSrc":"projects/bookStore.jpg",
+        "description":"Book store application for students",
+        "skills":["React","Express","NodeJS","MongoDB","Vite"],
+        "demo":"https://book-store-4lc1.onrender.com",
+        "source":"https://github.com/mohammadakar/Book-Store"
+    }
+]
