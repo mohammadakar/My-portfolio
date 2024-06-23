@@ -42,5 +42,9 @@
     {
         "title":"Tailwind",
         "imageSrc":"experience/tailwind.png"
+    },
+    {
+        "title":"Laravel",
+        "imageSrc":"experience/laravel.png"
     }
 ]

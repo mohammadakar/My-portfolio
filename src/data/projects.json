@@ -22,5 +22,13 @@
         "skills":["React","Express","NodeJS","MongoDB","Vite"],
         "demo":"https://book-store-4lc1.onrender.com",
         "source":"https://github.com/mohammadakar/Book-Store"
+    },
+    {
+        "title":"PixelVibe",
+        "imageSrc":"projects/PixelVibe.jpg",
+        "description":"Platform for posting images with title and description",
+        "skills":["laravel","MySQL","Vite","TailwindCSS"],
+        "demo":"http://pixelvibe1.infinityfreeapp.com",
+        "source":"https://github.com/mohammadakar/PixelVibe"
     }
 ]
