@@ -2,7 +2,7 @@
     {
         "title":"InkFlowHub",
         "imageSrc":"projects/inkFlowHub.jpg",
-        "description":"Platform for sharing photos with others",
+        "description":"Platform for sharing photos with others (Blog app)",
         "skills":["React","Express","NodeJS","MongoDB"],
         "demo":"https://inkflowhub-1.onrender.com",
         "source":"https://github.com/mohammadakar/InkFlowHub"
@@ -30,5 +30,13 @@
         "skills":["laravel","MySQL","Vite","TailwindCSS"],
         "demo":"http://pixelvibe1.infinityfreeapp.com",
         "source":"https://github.com/mohammadakar/PixelVibe"
+    },
+    {
+        "title":"LebTrails",
+        "imageSrc":"projects/lebtrails.jpg",
+        "description":"Travel and tour website for booking your travels",
+        "skills":["HTML","CSS","JavaScript","PHP","MySQL"],
+        "demo":"http://lebtrails.wuaze.com",
+        "source":"https://github.com/mohammadakar/LebTrails"
     }
 ]
