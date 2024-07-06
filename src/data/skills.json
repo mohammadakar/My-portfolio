@@ -46,5 +46,13 @@
     {
         "title":"Laravel",
         "imageSrc":"experience/laravel.png"
+    },
+    {
+        "title":"Vite",
+        "imageSrc":"experience/vite.svg"
+    },
+    {
+        "title":"ExpressJS",
+        "imageSrc":"experience/express.png"
     }
 ]
