@@ -2,8 +2,8 @@
     {
         "title":"InkFlowHub",
         "imageSrc":"projects/inkFlowHub.jpg",
-        "description":"Platform for sharing photos with others (Blog app)",
-        "skills":["React","Express","NodeJS","MongoDB"],
+        "description":"Platform for sharing memories and photos with others",
+        "skills":["React","Express","NodeJS","MongoDB","cloudinary"],
         "demo":"https://inkflowhub-1.onrender.com",
         "source":"https://github.com/mohammadakar/InkFlowHub"
     },
@@ -11,9 +11,17 @@
         "title":"LebEstate",
         "imageSrc":"projects/leb-Estate.png",
         "description":"Real estate application for renting and selling estates",
-        "skills": ["React", "Express", "NodeJS", "MongoDB", "TailwindCSS", "Vite"],
+        "skills": ["React", "Express", "NodeJS", "MongoDB", "TailwindCSS", "Vite","firebase"],
         "demo":"https://leb-estate.onrender.com",
         "source":"https://github.com/mohammadakar/Leb-estate"
+    },
+    {
+        "title":"E-Learning",
+        "imageSrc":"projects/E-learning.jpg",
+        "description":"E-learning website for students",
+        "skills":["React", "Express", "NodeJS", "MongoDB", "TailwindCSS", "firebase"],
+        "demo":"https://leb-estate.onrender.com",
+        "source":"https://github.com/mohammadakar/E-Learning"
     },
     {
         "title":"BookStore",

@@ -1,0 +1,30 @@
+[
+    {
+        "title":"Rock Paper Scissors",
+        "imageSrc":"projects/RPS.jpg",
+        "description":"Must play matches against four different bots, winning at least 60% of the games in each match",
+        "skills":["TensorFlow"],
+        "demo":"https://freecodecam-boilerplate-890o0w79k73.ws-us117.gitpod.io/"
+    },
+    {
+        "title":"Cats and dogs",
+        "imageSrc":"projects/cd.webp",
+        "description":"classifies images of cats and dogs at least 63% of the time",
+        "skills": ["TensorFlow","CNN"],
+        "demo":"https://colab.research.google.com/drive/1BiEhpoBiCYFLp2qt-e0GwL6wW2jGxuzQ#"
+    },
+    {
+        "title":"Linear Regression Health Costs Calculator",
+        "imageSrc":"projects/health.png",
+        "description":"Use the given data to predict healthcare costs based on new data",
+        "skills":["TensorFlow","LR"],
+        "demo":"https://colab.research.google.com/drive/1olkSN1DqGHJs3O0i7R7T1ZzWI2TE36GH"
+    },
+    {
+        "title":"Neural Network SMS Text Classifier",
+        "imageSrc":"projects/tc.png",
+        "description":"Classify SMS messages as either 'ham' or 'spam'",
+        "skills":["TensorFlow","RNN"],
+        "demo":"https://colab.research.google.com/drive/1ire3aHHuJKFfkSwEec-GIZLIBL6exHbB"
+    }
+]

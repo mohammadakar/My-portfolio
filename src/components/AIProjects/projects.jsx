@@ -1,10 +1,10 @@
 import ProjectCard from "./projectCard";
-import projects from "../../data/projects.json"
+import projects from "../../data/AiModels.json"
 import styles from "./projects.module.css"
-const Projects = () => {
+const AiProjects = () => {
     return ( 
-        <section className={styles.container} id="projects">
-            <h2 className={styles.title}>Web Projects</h2>
+        <section className={styles.container} id="aiprojects">
+            <h2 className={styles.title}>AI Models</h2>
             <div className={styles.content}>
                 {
                     projects.map((project,id)=>{
@@ -16,4 +16,4 @@ const Projects = () => {
     );
 }
 
-export default Projects;
+export default AiProjects;

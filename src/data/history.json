@@ -1,10 +1,23 @@
 [
     {
+        "role":"Bachelor in Computer Science",
+        "college":"Maaref university",
+        "startDate":"July , 2021",
+        "endDate":"may , 2025",
+        "imageSrc":"https://assets.weforum.org/article/image/_sNw0oZO6IQV_vLpSbxFnx44SN_obtJrNdbSk0_yFFk.JPG"
+    },{
         "role":"Web development training",
         "college":"CIS college",
         "startDate":"July , 2023",
         "endDate":"Oct , 2023",
         "experience":"HTML , JavaScript , CSS , PHP , MySQL",
         "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCiuNjxgMhL_u_p2763fiR4CpMNx4QFhUdbw&s"
+    },{
+        "role":"TensorFlow course",
+        "college":"FreeCodeCamp",
+        "startDate":"Jan , 2025",
+        "endDate":"Feb , 2025",
+        "experience":"Neural network , CNN , RNN , Reinforcement Learning With Q-Learning",
+        "imageSrc":"https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s900-c-k-c0x00ffffff-no-rj"
     }
 ]

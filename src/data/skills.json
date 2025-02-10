@@ -54,5 +54,8 @@
     {
         "title":"ExpressJS",
         "imageSrc":"experience/express.png"
+    },{
+        "title":"TensorFlow",
+        "imageSrc":"experience/tf.png"
     }
 ]
