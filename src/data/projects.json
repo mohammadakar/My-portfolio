@@ -1,5 +1,13 @@
 [
     {
+        "title":"Intelligram",
+        "imageSrc":"projects/IntelligramIcon.png",
+        "description":"Social media platform with AI features",
+        "skills":["React","Express","NodeJS","MongoDB","Firebase","Vite","TailwindCSS"],
+        "demo":"https://intelligram.onrender.com/",
+        "source":"https://github.com/mohammadakar/Intelligram"
+    },
+    {
         "title":"InkFlowHub",
         "imageSrc":"projects/inkFlowHub.jpg",
         "description":"Platform for sharing memories and photos with others",
@@ -30,6 +38,13 @@
         "skills":["React","Express","NodeJS","MongoDB","Vite"],
         "demo":"https://book-store-4lc1.onrender.com",
         "source":"https://github.com/mohammadakar/Book-Store"
+    },
+    {
+        "title":"BrightPath",
+        "imageSrc":"projects/BrightPath.png",
+        "description":"To empower individuals to access a university-quality education free of charge through YouTube courses",
+        "skills":["laravel","MySQL","Vite","HTML","JavaScript","CSS"],
+        "source":"https://github.com/mohammadakar/BrightPath"
     },
     {
         "title":"PixelVibe",

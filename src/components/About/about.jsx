@@ -15,6 +15,13 @@ const About = () => {
                             <p>I am a full-stack developer fast developing and optimised backend systems and APIs</p>
                         </div>
                     </li>
+                    <li className={styles.aboutItem}>
+                        <img className={styles.aboutItemImage} src={getImageUrl("about/tester.png")} alt="server icon" />
+                        <div className={styles.aboutItemText}>
+                            <h3>QA engineer</h3>
+                            <p>Quality assurance for websites and API&apos;s</p>
+                        </div>
+                    </li>
                 </ul>
             </div>
         </section>

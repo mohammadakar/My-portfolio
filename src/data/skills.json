@@ -57,5 +57,17 @@
     },{
         "title":"TensorFlow",
         "imageSrc":"experience/tf.png"
+    },
+    {
+        "title":"Cypress",
+        "imageSrc":"experience/cypressIMG.jpg"
+    },
+    {
+        "title":"TestRail",
+        "imageSrc":"experience/Testrail.png"
+    },
+    {
+        "title":"Jira",
+        "imageSrc":"experience/jira.png"
     }
 ]
